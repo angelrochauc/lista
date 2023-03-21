@@ -7,6 +7,10 @@ html{
     background: linear-gradient(to left, #2196f3, #009688);
   
 }
+body {
+    display: block;
+    margin: 0px;
+}
 
 h1{
     color: #fff;
